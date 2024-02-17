@@ -4,10 +4,14 @@ import { resolve } from 'path'
 import './database'
 import routes from './routes'
 
+const corsOptions = {
+  origin: 'https://codesushi-flavia-ramos.vercel.app/',
+  credentials: true
+}
 class App {
   constructor () {
     this.app = express() // guardamos o express dentro da variável e exportamos ela por meio do this
-    this.app.use(cors()) // habilitado o cors para conseguir linkar back e front
+    this.app.use(cors(corsOptions)) // habilitado o cors para conseguir linkar back e front; colocamos o end do front-end para restringir o acesso na API só por ele.
     this.middlewares() // avisamos que utilizaremos toda a aplicação pelo método JSON
     this.routes() // deixamos nossas rotas disponíveis para rodar assim que inicia a aplicação
   }
