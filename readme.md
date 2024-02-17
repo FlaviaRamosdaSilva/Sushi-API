@@ -7,7 +7,7 @@
 <p>Este projeto foi uma jornada de paixão e dedicação, e estou incrivelmente orgulhosa pelo trabalho árduo que realizei. Vou continuar codando, explorando e saboreando cada byte deste incrível projeto!</p>
 <p>Em breve deixarei o projeto responsivo e trarei mais funcionalidades para cliente e administrador, acompanhem!</p>
 
-## :computer: Tecnologias utilizadas em detalhes:
+## :computer: Tecnologias utilizadas (principais componentes):
 
 - Desenvolvido em NodeJS com Express
 - Utilizei Nodemon, Sucrase, ESlint
