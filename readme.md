@@ -1,17 +1,17 @@
 ## :file_folder: Code Sushi - API
 
 <p>Estou empolgado em compartilhar com vocês sobre o projeto incrível que acabei de finalizar. Preparem-se para mergulhar de cabeça neste universo deliciosamente tecnológico que criamos: um site de um restaurante de sushi que vai te deixar com água na boca!</p><br>
-<br>
+
 <p>Foi um trabalho duro para trazer à vida cada linha de código, cada função, transformando tudo em uma experiência imersiva e saborosa. Este não é apenas mais um site, é uma jornada através dos sabores do Japão, diretamente na tela do seu dispositivo.</p><br>
-<br>
+
 <p>Criei um sistema onde os usuários podem se cadastrar, fazer login e, em seguida, navegar pela deliciosa seleção de pratos. E não para por aí! Com apenas alguns cliques, eles podem montar seu pedido, enchendo o carrinho com os mais frescos e saborosos sushis que já viram.</p><br>
-<br>
+
 <p>Mas espere, tem mais! Para os administradores, preparamos uma área exclusiva repleta de ferramentas poderosas. Aqui, podem acompanhar os pedidos dos clientes, ajustar preços, adicionar novos pratos ao menu e muito mais. É controle total nas mãos dos mestres do desenvolvimento!</p><br>
-<br>
+
 <p>Este projeto foi uma jornada de paixão e dedicação, e estou incrivelmente orgulhosa pelo trabalho árduo que realizei. Vou continuar codando, explorando e saboreando cada byte deste incrível projeto!</p><br>
-<br>
+
 <p>Em breve deixarei o projeto responsivo e trarei mais funcionalidades para cliente e administrador, acompanhem!</p><br>
-<br>
+
 
 ## :computer: Tecnologias utilizadas:
 
