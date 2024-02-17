@@ -34,4 +34,4 @@
 
 ## :flower_playing_cards: Imagem do Projeto:
 
-<img src="">
+<img src="https://github.com/FlaviaRamosdaSilva/Sushi-API/blob/main/src/assets/API_imagem.png">
