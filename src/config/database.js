@@ -2,7 +2,7 @@
 
 module.exports = {
   dialect: 'postgres', // informa o banco de dados que eu vou utilizar
-  url: 'postgresql://postgres:1a1C21c42BFb6634FdeAFeAcaF3CeEd*@roundhouse.proxy.rlwy.net:30684/railway',
+  url: 'postgres://dfsdczvo:35GbIELauaEzOpJkqq22qB7tUuyf-aBw@silly.db.elephantsql.com/dfsdczvo',
   // host: 'localhost',
   // username: 'postgres', // username pra entrar no Postbird
   // password: '151088', // senha pra entrar no Postbird
