@@ -25,7 +25,7 @@
 
 
 ## :rocket: Visite o site (projeto publicado):
-:fast_forward:<a href="https://sushi-api.onrender.com/">Sushi API</a>
+:fast_forward:<a href="https://sushi-api.up.railway.app/">Sushi API</a>
 
 ## :flower_playing_cards: Imagem do Projeto:
 
