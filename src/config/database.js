@@ -2,7 +2,7 @@
 
 module.exports = {
   dialect: 'postgres', // informa o banco de dados que eu vou utilizar
-  url: 'postgres://new_code_sushi_user:WKWyaZLGmKVOa4jjbMiygjeUetsPBbIJ@dpg-cn9ku2md3nmc73dirigg-a/new_code_sushi',
+  url: 'postgres://new_code_sushi_user:WKWyaZLGmKVOa4jjbMiygjeUetsPBbIJ@dpg-cn9ku2md3nmc73dirigg-a.oregon-postgres.render.com/new_code_sushi',
   // host: 'localhost',
   // username: 'postgres', // username pra entrar no Postbird
   // password: '151088', // senha pra entrar no Postbird
