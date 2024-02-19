@@ -5,7 +5,7 @@ import './database'
 import routes from './routes'
 
 const corsOptions = {
-  origin: 'https://codesushi-flavia-ramos.vercel.app',
+  origin: 'https://code-sushi-flavia-ramos.vercel.app/',
   credentials: true
 }
 class App {
