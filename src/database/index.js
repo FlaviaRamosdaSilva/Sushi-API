@@ -14,7 +14,7 @@ class Database {
   }
 
   init () {
-    this.connection = new Sequelize('postgres://dfsdczvo:35GbIELauaEzOpJkqq22qB7tUuyf-aBw@silly.db.elephantsql.com/dfsdczvo') // to instanciando meu sequelize // clicando o ctrl+init ali em verde ele vai pra pasta de user.js
+    this.connection = new Sequelize('postgresql://postgres:1a1C21c42BFb6634FdeAFeAcaF3CeEd*@roundhouse.proxy.rlwy.net:30684/railway') // to instanciando meu sequelize // clicando o ctrl+init ali em verde ele vai pra pasta de user.js
     models.map(model => model.init(this.connection)).map(model => model.associate && model.associate(this.connection.models))
     // segundo map é para fazer o relacionamento  // quero verificar dentro de cada model se existe o método associate, caso tenha (if &&) vou criar a conexão pelo
     // this.conecction.models;
